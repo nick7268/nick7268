@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Landaeta</h1>
 <h3 align="center">A passionate Fullstack developer from Venezuela</h3>
 
-- 🔭 I’m currently working on [Glserviciosweb, Itservices268](https://glserviciosweb.com/ https://itservices268.com)
+- 🔭 I’m currently working on [Glserviciosweb](https://glserviciosweb.com/) [Itservices268](https://itservices268.com)
 
 - 🌱 I’m currently learning **Tailwind CSS, Python, Nodejs, VueJs, ReactJs**
 
